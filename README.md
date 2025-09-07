@@ -4,6 +4,7 @@ Computer Science & Engineering student <br/>
 Learning, exploring and experiencing one thing at a time<br/>  
 Creating more than I consume — documenting my journey through code, design, and exploration<br/>  
 Always learning, always building, always evolving<br/>
+<br/>
 Not done yet<br/>
 
 
