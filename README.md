@@ -15,7 +15,7 @@ Not done yet<br/>
 
 ### Let's Connect!  
 I'm always open to collaborating on exciting projects or discussing new opportunities. Feel free to reach out!  
-- **Portfolio:** [Sujat's Portfolio](https://portfoliofrom1889-mqf4.vercel.app/)
+- **Portfolio:** [Sujat's Portfolio](https://www.sujatkhan.me/)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
