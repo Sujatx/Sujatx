@@ -10,6 +10,4 @@ I'm [**Sujat**](https://www.sujatkhan.me/), a web dev and open-source contributo
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
----
-
 
